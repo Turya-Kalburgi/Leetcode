@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,13 +18,27 @@
 | [0001-two-sum](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

@@ -5,7 +5,7 @@ class Solution {
         Set <Integer> result = new HashSet<>();
 
         //for first group
-        for( int num : nums1){
+        for(int num : nums1){
             set1.add(num);
         }
 
@@ -16,11 +16,12 @@ class Solution {
             }
         }
 
-        // rusults in array list
+        //result size in array
+
         int[] arr = new int[result.size()];
-        int i =0;
-        for(int num : result){
-            arr[i++]=num;
+        int i = 0;
+        for (int num : result){
+            arr[i++] = num;
         }
         return arr;
     }

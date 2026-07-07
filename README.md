@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0268-missing-number) |
@@ -46,4 +48,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0268-missing-number) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

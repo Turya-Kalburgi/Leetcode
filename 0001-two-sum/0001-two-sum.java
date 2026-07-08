@@ -1,28 +1,30 @@
+import java.util.*;
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
 
-        //create HashMap
-        HashMap<Integer, Integer> seen = new HashMap<>();
+        //create notepad
+        HashMap <Integer , Integer> seen = new HashMap<>();
 
-        //list to start
+        //ieration
         for(int i=0; i<nums.length; i++){
 
-            //first num start
+            //one by one from (nums)
             int num = nums[i];
 
-            //number need to reach target
-            int need = target - num;
+            //looing for match
+            int match = target - num;
 
-            //already seen the number
-            if(seen.containsKey(need)){
+            //check match esisting in notepad or not
+            if(seen.containsKey(match)){
 
-                //return index of needed and current 
-                return new int[]{seen.get(need),i};
+                //retun bot matches indexes
+                return new int[]{seen.get(match),i};
             }
-            //current number and its index
+            //for no matches
             seen.put(num,i);
         }
-        //for no match
-        return new int[]{};      
+        //empty new array
+        return new int[]{};  
     }
 }

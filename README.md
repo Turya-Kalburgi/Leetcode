@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0268-missing-number) |
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->

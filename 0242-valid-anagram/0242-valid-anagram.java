@@ -1,14 +1,26 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        if (s.length() != t.length()) return false;
+        
+        // same characters
+        if(s.length() != t.length()){
+            return false;
+        }    
 
-        int[] count = new int[26];
-        for (char c : s.toCharArray()) count[c - 'a']++;
-        for (char c : t.toCharArray()) count[c - 'a']--;
+            // make array of 26
+            int[] count = new int[26];
 
-        for (int c : count) {
-            if (c != 0) return false;
-        }
+            //add s sub t
+            for(int i=0; i<s.length() ; i++){
+
+                count[s.charAt(i) - 'a']++;
+                count[t.charAt(i) - 'a']--;
+            }
+            //count should be zero
+            for(int c : count){
+                if(c != 0){
+                    return false;
+                }
+            }
         return true;
     }
 }

@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |

@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1480-running-sum-of-1d-array](https://github.com/Turya-Kalburgi/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,4 +78,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Turya-Kalburgi/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0217-contains-duplicate) |
@@ -69,6 +70,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
@@ -84,4 +86,8 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Turya-Kalburgi/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

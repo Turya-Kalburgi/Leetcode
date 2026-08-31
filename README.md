@@ -19,6 +19,7 @@
 | [0238-product-of-array-except-self](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/Turya-Kalburgi/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -93,6 +94,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |

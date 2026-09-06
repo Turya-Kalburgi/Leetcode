@@ -22,6 +22,7 @@
 | [0268-missing-number](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/Turya-Kalburgi/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -49,6 +50,7 @@
 | [0268-missing-number](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Turya-Kalburgi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Turya-Kalburgi/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
